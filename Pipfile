@@ -13,6 +13,7 @@ rq = "*"
 beautifulsoup4 = "*"
 autopep8 = "*"
 lxml = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.7"

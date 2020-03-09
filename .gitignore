@@ -1,3 +1,6 @@
 .vscode
 __pycache__/*
 *.pyc
+app/static/img/uploads
+.DS_Store
+app/static/img/.DS_Store
